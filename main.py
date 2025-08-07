@@ -508,4 +508,4 @@ class VehicleReIDSystem:
 
 if __name__ == "__main__":
     system = VehicleReIDSystem()
-    system.run('Data/3.mp4', 'rtsp://admin:ad123456@192.168.55.252:554/0')
+    system.run('Data/3.mp4', 'Data/2.mp4')
